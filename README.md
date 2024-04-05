@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Mahmoud14799/mahmoud/assets/87919952/7b91b3e6-cd67-4945-ab42-849013257ce9)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahmoud badawy</h1>
-<h3 align="center">Mobile App Developer ` Flutter from Egypt</h3>
+<h3 align="center">Mobile App Developer  Flutter from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud14799&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud14799" /> </p>
 

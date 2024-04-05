@@ -1,6 +1,11 @@
-[![MasterHead](https://github.com/Mahmoud14799/mahmoud/assets/87919952/7b91b3e6-cd67-4945-ab42-849013257ce9)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mahmoud badawy</h1>
-<h3 align="center">Mobile App Developer  Flutter from Egypt</h3>
+<div align="center">
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
+
+
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Mahmoud+Badawy;MobileApp+Developer+Flutter+from+Egypt" alt="Typing SVG" /></a>
+    <h1></h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud14799&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud14799" /> </p>
 
